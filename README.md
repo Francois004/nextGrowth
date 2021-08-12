@@ -1,5 +1,5 @@
 # growthusers
-
+Ce projet est réalisé avec les langages et outils suivants: VueJS 3 , Html , CSS, Bootstrap
 ## Project setup
 ```
 npm install
