@@ -29,7 +29,7 @@ npm run serve
 ![users_home2](https://user-images.githubusercontent.com/47745859/130493533-d6ff9894-2702-420f-ad12-0b7d9c2c5483.PNG)
 
 
-*Tout les utilistateurs supprimés
+*Tout les utilisateurs supprimés
 
 ![users_deleted](https://user-images.githubusercontent.com/47745859/130493551-fcdfcd6c-953b-42be-9675-f19c6e728d32.PNG)
 
